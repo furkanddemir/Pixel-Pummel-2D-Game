@@ -27,11 +27,14 @@ Bu projenin yapımında ders içinde ve dışında bize değerli bilgileri kazan
 
 ---
 
-LinkedIn'de bulunan görüntüler ve daha fazla bilgi için [https://www.linkedin.com/posts/furkan-demir-989022301_visualstudiocode-activity-7220139712177393666-yBQ0?utm_source=share&utm_medium=member_desktop](#) bağlantısını inceleyebilirsiniz!  
-
-Projenin raporunu okumak için [https://drive.google.com/file/d/1v1nNubqmtufziAbbQz-XtscR3kRL940v/view?usp=sharing](#) bağlantısını inceleyebilirsiniz!
-
 ## 📁 Proje Dosyasına Erişim  
-Proje dosyasına erişmek için aşağıdaki bağlantıyı kullanabilirsiniz:  
+Proje raporuna erişmek için aşağıdaki bağlantıyı kullanabilirsiniz:  
 [Proje Dosyasını Görüntüle](https://drive.google.com/file/d/1v1nNubqmtufziAbbQz-XtscR3kRL940v/view?usp=sharing)
+
+## 🌐 Daha Fazla Bilgi  
+LinkedIn'de bulunan görüntüler ve detaylı bilgilere erişmek için aşağıdaki bağlantıyı ziyaret edebilirsiniz:  
+[LinkedIn Paylaşımı](https://www.linkedin.com/posts/furkan-demir-989022301_visualstudiocode-activity-7220139712177393666-yBQ0?utm_source=share&utm_medium=member_desktop)
+
+
+
 
