@@ -27,4 +27,5 @@ Bu projenin yapımında ders içinde ve dışında bize değerli bilgileri kazan
 
 ---
 
-Ekran görüntüleri ve daha fazla bilgi için [Proje Bağlantısı](#) bağlantısını inceleyebilirsiniz!  
+LinkedIn'de bulunan görüntüler ve daha fazla bilgi için [https://www.linkedin.com/posts/furkan-demir-989022301_visualstudiocode-activity-7220139712177393666-yBQ0?utm_source=share&utm_medium=member_desktop](#) bağlantısını inceleyebilirsiniz!  
+Projenin raporunu okumak için [](#) bağlantısını inceleyebilirsiniz.
