@@ -27,9 +27,6 @@ Bu projenin yapımında ders içinde ve dışında bize değerli bilgileri kazan
 
 ---
 
-## 📁 Proje Dosyasına Erişim  
-Proje raporuna erişmek için aşağıdaki bağlantıyı kullanabilirsiniz:  
-[Proje Dosyasını Görüntüle](https://drive.google.com/file/d/1v1nNubqmtufziAbbQz-XtscR3kRL940v/view?usp=sharing)
 
 ## 🌐 Daha Fazla Bilgi  
 LinkedIn'de bulunan görüntüler ve detaylı bilgilere erişmek için aşağıdaki bağlantıyı ziyaret edebilirsiniz:  
